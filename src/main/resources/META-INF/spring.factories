@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguraiton=\
+com.panda.house.autoconfig.HttpClientAutoConfiguration
